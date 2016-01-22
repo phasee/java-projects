@@ -1,3 +1,3 @@
 # Java-Projects
 
-My first repository. Let's learn Java :coffee:
+My first repository. Let's learn Java :coffee: :coffee: :coffee:
